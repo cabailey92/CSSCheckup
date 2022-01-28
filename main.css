@@ -1,0 +1,39 @@
+.wrapper-1 {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    height: 50px;
+}
+
+.wrapper-1 {
+    background-color: darkviolet;
+    padding: 15px;
+    width: auto;
+}
+
+.wrapper-2 {
+    background-color: indigo;
+    margin: 10px;
+    padding: 15px;
+    height: 250px;
+    width: 610px;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+body {
+    background-color: magenta;
+    border-style: double;
+}
